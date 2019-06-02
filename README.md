@@ -34,8 +34,11 @@ If you use this dataset, please cite the following
 }
 ```
 
+## Acknowledgements
+We sincerely thank Scott Hoang, James Ault, Prateek Shroff, [Zhenyu Wu](https://wuzhenyusjtu.github.io/) and Haotao Wang for labeling the dataset.
+
 ## Reference
 [1] H. Kuehne, H. Jhuang, E. Garrote, T. Poggio, and T. Serre, “Hmdb:
 a large video database for human motion recognition,” in Proceedings of the IEEE International Conference on Computer Vision (ICCV),
-2011, pp. 2556–2563.
-[2] T. Orekondy, B. Schiele, and M. Fritz, “Towards a visual privacyadvisor: Understanding and predicting privacy risks in images,” in Proceedings of the IEEE International Conference on Computer Vision(ICCV), 2017, pp. 3686–3695.
+2011, pp. 2556–2563. <br />
+[2] T. Orekondy, B. Schiele, and M. Fritz, “Towards a visual privacyadvisor: Understanding and predicting privacy risks in images,” in Proceedings of the IEEE International Conference on Computer Vision(ICCV), 2017, pp. 3686–3695. <br />
