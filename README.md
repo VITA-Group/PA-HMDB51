@@ -11,6 +11,9 @@ We carefully selected five privacy attributes, which are originally from the 68 
 ![PA def table](https://github.com/htwang14/PA-HMDB51/blob/master/imgs/def_table.PNG)
 
 ## Examples
+| Frame             |  Action | Privacy Attributes | 
+|:-------------------------:|:-------------------------:|:----------------------:|
+| ![](https://github.com/htwang14/PA-HMDB51/blob/master/imgs/brush_hair.PNG) | brush hair | skin color: white <br> face: no <br> gender: female <br> nudity: level 2 <br> relationship: no |
 
 ## Download link
 
