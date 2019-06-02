@@ -8,6 +8,8 @@ PA-HMDB51 is the very first human action video dataset with both privacy attribu
 ## Privacy attributes
 We carefully selected five privacy attributes, which are originally from the 68 privacy attributes defined in [1], to annotate. The definition of the five attributes can be found in the following table. 
 
+![PA def table](https://github.com/htwang14/PA-HMDB51/blob/master/imgs/def_table.PNG)
+
 ## Examples
 
 ## Download link
