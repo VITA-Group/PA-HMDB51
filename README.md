@@ -3,7 +3,7 @@ This is the repo for PA-HMDB51 (privacy attribute HMDB51) dataset.
 
 
 ## Overview
-PA-HMDB51 is the very first human action video dataset with both privacy attributes and action labels provided. The dataset contains 592 videos selected from HMDB51 [1], each provide with frame-level annotation of five privacy attributes.
+PA-HMDB51 is the very first human action video dataset with both privacy attributes and action labels provided. The dataset contains 592 videos selected from HMDB51 [1], each provided with frame-level annotation of five privacy attributes. We evaluated the visual privacy algorithms proposed in [3] on PA-HMDB51.
 
 ## Privacy attributes
 We carefully selected five privacy attributes, which are originally from the 68 privacy attributes defined in [2], to annotate. The definition of the five attributes can be found in the following table. 
@@ -42,3 +42,4 @@ We sincerely thank Scott Hoang, James Ault, Prateek Shroff, [Zhenyu Wu](https://
 a large video database for human motion recognition,” in Proceedings of the IEEE International Conference on Computer Vision (ICCV),
 2011, pp. 2556–2563. <br />
 [2] T. Orekondy, B. Schiele, and M. Fritz, “Towards a visual privacyadvisor: Understanding and predicting privacy risks in images,” in Proceedings of the IEEE International Conference on Computer Vision(ICCV), 2017, pp. 3686–3695. <br />
+[3] Z. Wu, Z. Wang, Z. Wang, and H. Jin, “Towards privacy-preservingvisual recognition via adversarial training: A pilot study,” in Proceedings of the European Conference on Computer Vision (ECCV), 2018, pp. 606–624. <br />
