@@ -10,7 +10,85 @@ PA-HMDB51 is the very first human action video dataset with both privacy attribu
 ## Privacy attributes
 We carefully selected five privacy attributes, which are originally from the 68 privacy attributes defined in [2], to annotate. The definition of the five attributes can be found in the following table. 
 
-![PA def table](https://github.com/htwang14/PA-HMDB51/blob/master/imgs/def_table.PNG)
+<!-- ![PA def table](https://github.com/htwang14/PA-HMDB51/blob/master/imgs/def_table.PNG)-->
+
+<table id="Main table">
+    <thead>
+        <tr>
+            <th>Attribute</th>
+            <th>Possible Values</th>
+            <th>Meaning</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td rowspan=4> Skin Color </td>
+            <td> 0 invisible </td> 
+            <td> Skin color of the actor is invisible. </td>
+        </tr>
+        <tr>
+            <td> 1 white </td> 
+            <td> Skin color of the actor is white. </td>
+        </tr>
+        <tr>
+            <td> 2 brown/yellow </td> 
+            <td> Skin color of the actor is brown/yellow. </td>
+        </tr>
+        <tr>
+            <td> 3 black </td> 
+            <td> Skin color of the actor is black. </td>
+        </tr>
+        <tr>
+            <td rowspan=3> Facer </td>
+            <td> 0 No face </td> 
+            <td> Less than 10% of the actor’s face is visible.  </td>
+        </tr>
+        <tr>
+            <td> 1 Partial face </td> 
+            <td> Less than 70% but more than 10% of the actor’s face is visible. </td>
+        </tr>
+        <tr>
+            <td> 2 Whole face </td> 
+            <td> More than 70% of the actor’s face is visible. </td>
+        </tr>
+        <tr>
+            <td rowspan=3> Gender </td>
+            <td> 0 Cannot tel </td> 
+            <td> Cannot tell the person’s gender.  </td>
+        </tr>
+        <tr>
+            <td> 1 Male </td> 
+            <td> It’s an actor. </td>
+        </tr>
+        <tr>
+            <td> 2 Female </td> 
+            <td> It’s an actress. </td>
+        </tr>
+        <tr>
+            <td rowspan=3> Nudity </td>
+            <td> 0 </td> 
+            <td> The actor/actress is wearing long sleeves and pants.  </td>
+        </tr>
+        <tr>
+            <td> 1 </td> 
+            <td> The actor/actress is wearing short sleeves or shorts/short skirts. </td>
+        </tr>
+        <tr>
+            <td> 2 </td> 
+            <td> The actor/actress is of semi-nudity. </td>
+        </tr>
+        <tr>
+            <td rowspan=2> Relationship </td>
+            <td> 0 Cannot tell </td> 
+            <td> Relationships (such as friends, couples, etc.) between the actors/actress cannot be told from the video.   </td>
+        </tr>
+        <tr>
+            <td> 1 Can tell </td> 
+            <td> Relationships between the actors/actress can be told from the video. </td>
+        </tr>
+    </tbody>
+</table>
+
 
 ## Examples
 | Frame             |  Action | Privacy Attributes | 
