@@ -1,5 +1,7 @@
 # PA-HMDB51
-This is the repo for PA-HMDB51 (privacy attribute HMDB51) dataset.
+This is the repo for PA-HMDB51 (privacy attribute HMDB51) dataset published in our paper http://arxiv.org/abs/1906.05675
+
+This dataset is collected and maintained by the [VITA group] (https://www.atlaswang.com/group) at the CSE department of Texas A&M University.
 
 
 ## Overview
@@ -29,8 +31,11 @@ The privacy attributes for all 'brush hair' videos are in brush_hair.json, simil
 ## Citation
 If you use this dataset, please cite the following
 ```
-@article{
-    http://arxiv.org/abs/1906.05675
+@article{wang2019privacy,
+ title={Privacy-Preserving Deep Visual Recognition: An Adversarial Learning Framework and A New Dataset},
+ author={Wang, Haotao and Wu, Zhenyu and Wang, Zhangyang and Wang, Zhaowen and Jin, Hailin},
+ journal={arXiv preprint arXiv:1906.05675},
+ year={2019}
 }
 ```
 
