@@ -30,7 +30,7 @@ The privacy attributes for all 'brush hair' videos are in brush_hair.json, simil
 If you use this dataset, please cite the following
 ```
 @article{
-    blablabla
+    http://arxiv.org/abs/1906.05675
 }
 ```
 
