@@ -53,7 +53,7 @@ We carefully selected five privacy attributes, which are originally from the 68 
         </tr>
         <tr>
             <td rowspan=3> Gender </td>
-            <td> 0 Cannot tel </td> 
+            <td> 0 Cannot tell </td> 
             <td> Cannot tell the person’s gender.  </td>
         </tr>
         <tr>
