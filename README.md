@@ -39,7 +39,7 @@ We carefully selected five privacy attributes, which are originally from the 68 
             <td> Skin color of the actor is black. </td>
         </tr>
         <tr>
-            <td rowspan=3> Facer </td>
+            <td rowspan=3> Face </td>
             <td> 0 No face </td> 
             <td> Less than 10% of the actor’s face is visible.  </td>
         </tr>
