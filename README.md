@@ -118,7 +118,7 @@ If you use this dataset, please cite the following
 ```
 
 ## Acknowledgements
-We sincerely thank Scott Hoang, James Ault, Prateek Shroff, [Zhenyu Wu](https://wuzhenyusjtu.github.io/) and Haotao Wang for labeling the dataset.
+We sincerely thank Scott Hoang, James Ault, Prateek Shroff, [Zhenyu Wu](https://wuzhenyusjtu.github.io/) and [Haotao Wang](http://people.tamu.edu/~htwang/) for labeling the dataset.
 
 ## Reference
 [1] H. Kuehne, H. Jhuang, E. Garrote, T. Poggio, and T. Serre, “Hmdb:
