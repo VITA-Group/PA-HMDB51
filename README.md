@@ -84,8 +84,8 @@ We carefully selected five privacy attributes to annotate. The definition of the
 ## Examples
 | Frame             |  Action | Privacy Attributes | 
 |:-------------------------:|:-------------------------:|:----------------------:|
-| ![](https://github.com/htwang14/PA-HMDB51/blob/master/imgs/brush_hair.png) | brush hair | skin color: white <br> face: Invisible <br> gender: female <br> nudity: Semi-nudity <br> relationship: unidentifiable |
-| ![](https://github.com/htwang14/PA-HMDB51/blob/master/imgs/pullup.png) | pullup | skin color: white <br> face: Completely visible <br> gender: male <br> nudity: Partial-nudity <br> relationship: unidentifiable |
+| ![](https://github.com/htwang14/PA-HMDB51/blob/master/imgs/brush_hair.png) | brush hair | skin color: white <br> face: invisible <br> gender: female <br> nudity: semi-nudity <br> relationship: unidentifiable |
+| ![](https://github.com/htwang14/PA-HMDB51/blob/master/imgs/pullup.png) | pullup | skin color: white <br> face: completely visible <br> gender: male <br> nudity: partial-nudity <br> relationship: unidentifiable |
 
 ## Download link
 [Google drive](https://drive.google.com/drive/folders/1NH71LxF3rTwTSnxXcA3Wy8GOn6JluGNr?usp=sharing)
