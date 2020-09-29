@@ -29,7 +29,7 @@ We carefully selected five privacy attributes to annotate. The definition of the
             <td> 1: Skin color of the person(s) is/are white. </td> 
         </tr>
         <tr>
-            <td> 2: Skin color of the person(s) is/are brown/yellow </td> 
+            <td> 2: Skin color of the person(s) is/are brown/yellow. </td> 
         </tr>
         <tr>
             <td> 3: Skin color of the person(s) is/are black. </td> 
@@ -84,8 +84,8 @@ We carefully selected five privacy attributes to annotate. The definition of the
 ## Examples
 | Frame             |  Action | Privacy Attributes | 
 |:-------------------------:|:-------------------------:|:----------------------:|
-| ![](https://github.com/htwang14/PA-HMDB51/blob/master/imgs/brush_hair.png) | brush hair | skin color: white <br> face: no <br> gender: female <br> nudity: level 2 <br> relationship: no |
-| ![](https://github.com/htwang14/PA-HMDB51/blob/master/imgs/pullup.png) | pullup | skin color: white <br> face: whole <br> gender: male <br> nudity: level 1 <br> relationship: no |
+| ![](https://github.com/htwang14/PA-HMDB51/blob/master/imgs/brush_hair.png) | brush hair | skin color: white <br> face: Invisible <br> gender: female <br> nudity: Semi-nudity <br> relationship: unidentifiable |
+| ![](https://github.com/htwang14/PA-HMDB51/blob/master/imgs/pullup.png) | pullup | skin color: white <br> face: Completely visible <br> gender: male <br> nudity: Partial-nudity <br> relationship: unidentifiable |
 
 ## Download link
 [Google drive](https://drive.google.com/drive/folders/1NH71LxF3rTwTSnxXcA3Wy8GOn6JluGNr?usp=sharing)
