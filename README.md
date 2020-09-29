@@ -97,7 +97,7 @@ We carefully selected five privacy attributes, which are originally from the 68 
 | ![](https://github.com/htwang14/PA-HMDB51/blob/master/imgs/pullup.png) | pullup | skin color: white <br> face: whole <br> gender: male <br> nudity: level 1 <br> relationship: no |
 
 ## Download link
-[Google drive](https://drive.google.com/drive/u/0/folders/1OtQLtq9QxdPHaH1gUcFZiylBMXJhn2dm)
+[Google drive](https://drive.google.com/drive/folders/1NH71LxF3rTwTSnxXcA3Wy8GOn6JluGNr?usp=sharing)
 
 ## Label format
 The attributes usually don't change that much across a video, so we only need to label the starting and ending frame index of each attribute. 
