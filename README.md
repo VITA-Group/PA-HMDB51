@@ -1,12 +1,12 @@
 # PA-HMDB51 Dataset
-This is the repo for PA-HMDB51 (privacy annotated HMDB51) dataset published in our TPAMI paper http://arxiv.org/abs/1906.05675.
+This is the repo for PA-HMDB51 (privacy annotated HMDB51) dataset published in our TPAMI [paper](http://arxiv.org/abs/1906.05675).
 
 The dataset is collected and maintained by the [VITA group](https://vita-group.github.io/) at the University of Texas at Austin.
 
 
 ## Overview
 PA-HMDB51 is the very first human action video dataset with both privacy attributes and action labels provided. The dataset contains 515 videos selected from [HMDB51](https://serre-lab.clps.brown.edu/resource/hmdb-a-large-human-motion-database/), each provided with frame-level annotation of five privacy attributes. 
-We carefully designed and benchmarked three privacy presenving learning algorithms on our new dataset.
+We carefully designed and benchmarked three privacy presenving learning algorithms on our new dataset in our TPAMI [paper](http://arxiv.org/abs/1906.05675).
 
 ## Privacy attributes
 We carefully selected five privacy attributes to annotate. The definition of the five attributes can be found in the following table. 
@@ -96,6 +96,9 @@ For example, if a video has 100 frames, and we can see a complete human face in 
 Note that each attribute is labeled separately.
 For instance, if the actor's skin color is visible in all 100 frames in the same video (assume the actor is white), we will label [skin color: white, s: 0, e: 99]. 
 The privacy attributes for all 'brush hair' videos are in brush_hair.json, similar with all other actions.
+
+## GUI
+We provide the GUI to visually check the frame-wise privacy attribute annotations. (<em>Coming soon</em>)
 
 ## Citation
 If you use this dataset, please cite the following
