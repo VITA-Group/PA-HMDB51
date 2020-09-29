@@ -1,7 +1,7 @@
-# PA-HMDB51
+# PA-HMDB51 Dataset
 This is the repo for PA-HMDB51 (privacy annotated HMDB51) dataset published in our TPAMI paper http://arxiv.org/abs/1906.05675.
 
-This dataset is collected and maintained by the [VITA group](https://vita-group.github.io/) at the University of Texas at Austin.
+The dataset is collected and maintained by the [VITA group](https://vita-group.github.io/) at the University of Texas at Austin.
 
 
 ## Overview
@@ -17,75 +17,65 @@ We carefully selected five privacy attributes to annotate. The definition of the
     <thead>
         <tr>
             <th>Attribute</th>
-            <th>Possible Values</th>
-            <th>Meaning</th>
+            <th>Possible Values & Meaning</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td rowspan=4> Skin Color </td>
-            <td> 0 invisible </td> 
-            <td> Skin color of the actor is invisible. </td>
+            <td rowspan=5> Skin Color </td>
+            <td> 0: Skin color of the person(s) is/are unidentifiable. </td> 
         </tr>
         <tr>
-            <td> 1 white </td> 
-            <td> Skin color of the actor is white. </td>
+            <td> 1: Skin color of the person(s) is/are white. </td> 
         </tr>
         <tr>
-            <td> 2 brown/yellow </td> 
-            <td> Skin color of the actor is brown/yellow. </td>
+            <td> 2: Skin color of the person(s) is/are brown/yellow </td> 
         </tr>
         <tr>
-            <td> 3 black </td> 
-            <td> Skin color of the actor is black. </td>
+            <td> 3: Skin color of the person(s) is/are black. </td> 
+        </tr>
+        <tr>
+            <td> 4: Skin color of the person(s) is/are black. </td>
         </tr>
         <tr>
             <td rowspan=3> Face </td>
-            <td> 0 No face </td> 
-            <td> Less than 10% of the actor’s face is visible.  </td>
+            <td> 0: Invisible (< 10% area is visible). </td> 
         </tr>
         <tr>
-            <td> 1 Partial face </td> 
-            <td> Less than 70% but more than 10% of the actor’s face is visible. </td>
+            <td> 1: Partially visible (≥ 10% but ≤ 70% area is visible). </td> 
         </tr>
         <tr>
-            <td> 2 Whole face </td> 
-            <td> More than 70% of the actor’s face is visible. </td>
+            <td> 2: Partially visible (≥ 10% but ≤ 70% area is visible) </td> 
         </tr>
         <tr>
-            <td rowspan=3> Gender </td>
-            <td> 0 Cannot tell </td> 
-            <td> Cannot tell the person’s gender.  </td>
+            <td rowspan=4> Gender </td>
+            <td> 0: The gender(s) of the person(s) is/are unidentifiable. </td> 
         </tr>
         <tr>
-            <td> 1 Male </td> 
-            <td> It’s an actor. </td>
+            <td> 1: The person(s) is/are male. </td> 
         </tr>
         <tr>
-            <td> 2 Female </td> 
-            <td> It’s an actress. </td>
+            <td> 2: The person(s) is/are female </td> 
+        </tr>
+        <tr>
+            <td> 3: Persons with different genders are coexisting. </td> 
         </tr>
         <tr>
             <td rowspan=3> Nudity </td>
-            <td> 0 </td> 
-            <td> The actor/actress is wearing long sleeves and pants.  </td>
+            <td> 0: No-nudity w/ long sleeves and pants. </td> 
         </tr>
         <tr>
-            <td> 1 </td> 
-            <td> The actor/actress is wearing short sleeves or shorts/short skirts. </td>
+            <td> 1: Partial-nudity w/ short sleeves, skirts, or shorts. </td> 
         </tr>
         <tr>
-            <td> 2 </td> 
-            <td> The actor/actress is of semi-nudity. </td>
+            <td> 2: Semi-nudity w/ half-naked body. </td> 
         </tr>
         <tr>
             <td rowspan=2> Relationship </td>
-            <td> 0 Cannot tell </td> 
-            <td> Relationships (such as friends, couples, etc.) between the actors/actress cannot be told from the video.   </td>
+            <td> 0: Relationship is unidentifiable. </td> 
         </tr>
         <tr>
-            <td> 1 Can tell </td> 
-            <td> Relationships between the actors/actress can be told from the video. </td>
+            <td> 1 Relationship is identifiable. </td> 
         </tr>
     </tbody>
 </table>
