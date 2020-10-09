@@ -112,5 +112,7 @@ If you use this dataset, please cite the following
 ```
 
 ## Acknowledgements
-We sincerely thank Scott Hoang, James Ault, Prateek Shroff, [Zhenyu Wu](https://wuzhenyusjtu.github.io/) and [Haotao Wang](http://people.tamu.edu/~htwang/) for labeling the dataset.
+Z. Wu, H. Wang, and Z. Wang were partially supported by NSF Award RI-1755701. 
+The authors would like to sincerely thank Scott Hoang, James Ault, and Prateek Shroff for assisting the labeling of the PA-HMDB51 dataset, 
+and Scott Hoang for his contribution in building the GUI.
 
