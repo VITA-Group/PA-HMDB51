@@ -1,0 +1,481 @@
+{
+    "TrumanShow_punch_u_cm_np1_ba_bad_30.avi": {
+        "review": false,
+        "face": [
+            [
+                0,
+                45,
+                0
+            ]
+        ],
+        "relationship": [
+            [
+                0,
+                45,
+                0
+            ]
+        ],
+        "gender": [
+            [
+                0,
+                45,
+                1
+            ]
+        ],
+        "nudity": [
+            [
+                0,
+                45,
+                1
+            ]
+        ],
+        "skin_color": [
+            [
+                0,
+                45,
+                1
+            ]
+        ],
+        "note": ""
+    },
+    "BoxingTipsHowtoMakeKnucklesStronger_punch_u_cm_np1_ri_goo_1.avi": {
+        "review": false,
+        "face": [
+            [
+                0,
+                94,
+                2
+            ]
+        ],
+        "relationship": [
+            [
+                0,
+                94,
+                0
+            ]
+        ],
+        "gender": [
+            [
+                0,
+                94,
+                1
+            ]
+        ],
+        "note": "",
+        "skin_color": [
+            [
+                0,
+                94,
+                1
+            ]
+        ],
+        "nudity": [
+            [
+                0,
+                94,
+                1
+            ]
+        ]
+    },
+    "Italian_Job_4_punch_u_cm_np1_fr_med_1.avi": {
+        "review": true,
+        "face": [
+            [
+                0,
+                50,
+                2
+            ],
+            [
+                51,
+                55,
+                1
+            ]
+        ],
+        "relationship": [
+            [
+                0,
+                55,
+                0
+            ]
+        ],
+        "gender": [
+            [
+                0,
+                55,
+                1
+            ]
+        ],
+        "nudity": [
+            [
+                0,
+                55,
+                1
+            ]
+        ],
+        "skin_color": [
+            [
+                0,
+                55,
+                1
+            ]
+        ],
+        "note": ""
+    },
+    "LivefreeorDieHard_punch_u_cm_np1_fr_med_1.avi": {
+        "review": true,
+        "face": [
+            [
+                0,
+                1,
+                2
+            ],
+            [
+                2,
+                3,
+                1
+            ],
+            [
+                4,
+                21,
+                1
+            ],
+            [
+                22,
+                34,
+                2
+            ],
+            [
+                35,
+                39,
+                1
+            ],
+            [
+                40,
+                42,
+                0
+            ]
+        ],
+        "relationship": [
+            [
+                0,
+                34,
+                0
+            ],
+            [
+                35,
+                39,
+                0
+            ],
+            [
+                40,
+                42,
+                0
+            ]
+        ],
+        "gender": [
+            [
+                0,
+                3,
+                2
+            ],
+            [
+                4,
+                21,
+                1
+            ],
+            [
+                22,
+                34,
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                35,
+                39,
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                40,
+                42,
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        "note": "",
+        "skin_color": [
+            [
+                0,
+                34,
+                2
+            ],
+            [
+                35,
+                39,
+                2
+            ],
+            [
+                40,
+                42,
+                2
+            ]
+        ],
+        "nudity": [
+            [
+                0,
+                34,
+                0
+            ],
+            [
+                35,
+                39,
+                0
+            ],
+            [
+                40,
+                42,
+                0
+            ]
+        ]
+    },
+    "PracticingBoxingonaDoubleEndBag-LeadRightwithaHook_punch_u_nm_np1_fr_med_0.avi": {
+        "review": false,
+        "face": [
+            [
+                0,
+                102,
+                2
+            ]
+        ],
+        "relationship": [
+            [
+                0,
+                102,
+                0
+            ]
+        ],
+        "gender": [
+            [
+                0,
+                102,
+                1
+            ]
+        ],
+        "nudity": [
+            [
+                0,
+                102,
+                1
+            ]
+        ],
+        "skin_color": [
+            [
+                0,
+                102,
+                1
+            ]
+        ],
+        "note": ""
+    },
+    "BoxingTipsHowtoBuildPunchingPower_punch_u_cm_np1_fr_goo_1.avi": {
+        "review": false,
+        "face": [
+            [
+                0,
+                78,
+                2
+            ]
+        ],
+        "relationship": [
+            [
+                0,
+                78,
+                0
+            ]
+        ],
+        "gender": [
+            [
+                0,
+                78,
+                1
+            ]
+        ],
+        "nudity": [
+            [
+                0,
+                78,
+                1
+            ]
+        ],
+        "skin_color": [
+            [
+                0,
+                78,
+                1
+            ]
+        ],
+        "note": ""
+    },
+    "KUNG_FU_HUSTLE_punch_u_nm_np1_fr_med_53.avi": {
+        "review": true,
+        "face": [
+            [
+                0,
+                51,
+                2
+            ]
+        ],
+        "relationship": [
+            [
+                0,
+                51,
+                0
+            ]
+        ],
+        "gender": [
+            [
+                0,
+                51,
+                1
+            ]
+        ],
+        "nudity": [
+            [
+                0,
+                51,
+                0
+            ]
+        ],
+        "skin_color": [
+            [
+                0,
+                51,
+                2
+            ]
+        ],
+        "note": ""
+    },
+    "AdvancedBoxingTechniquesandExercises_punch_u_nm_np1_fr_med_12.avi": {
+        "review": false,
+        "face": [
+            [
+                0,
+                71,
+                2
+            ]
+        ],
+        "relationship": [
+            [
+                0,
+                71,
+                0
+            ]
+        ],
+        "gender": [
+            [
+                0,
+                71,
+                1
+            ]
+        ],
+        "note": "",
+        "skin_color": [
+            [
+                0,
+                71,
+                3
+            ]
+        ],
+        "nudity": [
+            [
+                0,
+                71,
+                2
+            ]
+        ]
+    },
+    "BoxingTipsHowtoBuildPunchingPower_punch_u_cm_np1_fr_med_3.avi": {
+        "review": true,
+        "face": [
+            [
+                0,
+                78,
+                2
+            ]
+        ],
+        "relationship": [
+            [
+                0,
+                78,
+                0
+            ]
+        ],
+        "gender": [
+            [
+                0,
+                78,
+                1
+            ]
+        ],
+        "nudity": [
+            [
+                0,
+                78,
+                1
+            ]
+        ],
+        "skin_color": [
+            [
+                0,
+                78,
+                1
+            ]
+        ],
+        "note": ""
+    },
+    "AdvancedBoxingTechniquesandExercises_punch_u_nm_np1_ri_med_10.avi": {
+        "review": false,
+        "face": [
+            [
+                0,
+                110,
+                1
+            ]
+        ],
+        "relationship": [
+            [
+                0,
+                110,
+                0
+            ]
+        ],
+        "gender": [
+            [
+                0,
+                110,
+                1
+            ]
+        ],
+        "nudity": [
+            [
+                0,
+                110,
+                2
+            ]
+        ],
+        "skin_color": [
+            [
+                0,
+                110,
+                3
+            ]
+        ],
+        "note": ""
+    }
+}

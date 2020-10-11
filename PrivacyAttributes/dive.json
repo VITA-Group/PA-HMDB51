@@ -1,0 +1,364 @@
+{
+    "50_FIRST_DATES_dive_f_cm_np1_ri_bad_35.avi": {
+        "face": [
+            [
+                0,
+                27,
+                0
+            ]
+        ],
+        "gender": [
+            [
+                0,
+                27,
+                0
+            ]
+        ],
+        "skin_color": [
+            [
+                0,
+                27,
+                1
+            ]
+        ],
+        "nudity": [
+            [
+                0,
+                27,
+                2
+            ]
+        ],
+        "relationship": [
+            [
+                0,
+                27,
+                0
+            ]
+        ],
+        "review": true,
+        "note": ""
+    },
+    "BASE_Jumping_Compilation_-_Brilliant_dive_f_cm_np1_le_bad_0.avi": {
+        "face": [
+            [
+                0,
+                65,
+                0
+            ]
+        ],
+        "gender": [
+            [
+                0,
+                65,
+                1
+            ]
+        ],
+        "skin_color": [
+            [
+                0,
+                65,
+                1
+            ]
+        ],
+        "nudity": [
+            [
+                0,
+                65,
+                0
+            ]
+        ],
+        "relationship": [
+            [
+                0,
+                65,
+                0
+            ]
+        ],
+        "review": true,
+        "note": ""
+    },
+    "BASE_Jumping_Compilation_-_Brilliant_dive_f_cm_np1_le_bad_1.avi": {
+        "face": [
+            [
+                0,
+                43,
+                0
+            ]
+        ],
+        "gender": [
+            [
+                0,
+                43,
+                1
+            ]
+        ],
+        "skin_color": [
+            [
+                0,
+                43,
+                0
+            ]
+        ],
+        "nudity": [
+            [
+                0,
+                43,
+                0
+            ]
+        ],
+        "relationship": [
+            [
+                0,
+                43,
+                1
+            ]
+        ],
+        "review": true,
+        "note": ""
+    },
+    "BASE_Jumping_Compilation_-_Brilliant_dive_f_cm_np1_ri_bad_8.avi": {
+        "face": [
+            [
+                0,
+                25,
+                1
+            ],
+            [
+                26,
+                45,
+                0
+            ]
+        ],
+        "gender": [
+            [
+                0,
+                25,
+                1
+            ],
+            [
+                26,
+                45,
+                1
+            ]
+        ],
+        "skin_color": [
+            [
+                0,
+                25,
+                1
+            ],
+            [
+                26,
+                45,
+                1
+            ]
+        ],
+        "nudity": [
+            [
+                0,
+                25,
+                1
+            ],
+            [
+                26,
+                45,
+                1
+            ]
+        ],
+        "relationship": [
+            [
+                0,
+                25,
+                0
+            ],
+            [
+                26,
+                45,
+                0
+            ]
+        ],
+        "review": true,
+        "note": ""
+    },
+    "BASE_Jumping_Compilation_-_Brilliant_dive_f_cm_np2_le_bad_5.avi": {
+        "face": [
+            [
+                0,
+                51,
+                0
+            ]
+        ],
+        "gender": [
+            [
+                0,
+                51,
+                0
+            ]
+        ],
+        "skin_color": [
+            [
+                0,
+                51,
+                0
+            ]
+        ],
+        "nudity": [
+            [
+                0,
+                51,
+                1
+            ]
+        ],
+        "relationship": [
+            [
+                0,
+                51,
+                1
+            ]
+        ],
+        "review": true,
+        "note": ""
+    },
+    "BASE_Jumping_Compilation_-_Brilliant_dive_u_cm_np1_ri_bad_6.avi": {
+        "face": [
+            [
+                0,
+                39,
+                0
+            ]
+        ],
+        "gender": [
+            [
+                0,
+                39,
+                1
+            ]
+        ],
+        "skin_color": [
+            [
+                0,
+                39,
+                1
+            ]
+        ],
+        "nudity": [
+            [
+                0,
+                39,
+                0
+            ]
+        ],
+        "relationship": [
+            [
+                0,
+                39,
+                0
+            ]
+        ],
+        "review": true,
+        "note": ""
+    },
+    "BASE_JUMPING_COMPILATION_PART_3_AMAZING!!!!!!!_dive_f_cm_np1_le_bad_0.avi": {
+        "face": [
+            [
+                0,
+                48,
+                0
+            ]
+        ],
+        "gender": [
+            [
+                0,
+                48,
+                1
+            ]
+        ],
+        "skin_color": [
+            [
+                0,
+                48,
+                3
+            ]
+        ],
+        "nudity": [
+            [
+                0,
+                48,
+                1
+            ]
+        ],
+        "relationship": [
+            [
+                0,
+                48,
+                0
+            ]
+        ],
+        "review": true,
+        "note": ""
+    },
+    "Bridge_diving_in_Mostar_dive_f_cm_np1_ri_bad_0.avi": {
+        "face": [
+            [
+                0,
+                60,
+                2
+            ],
+            [
+                61,
+                122,
+                0
+            ]
+        ],
+        "gender": [
+            [
+                0,
+                60,
+                1
+            ],
+            [
+                61,
+                122,
+                1
+            ]
+        ],
+        "skin_color": [
+            [
+                0,
+                60,
+                1
+            ],
+            [
+                61,
+                122,
+                1
+            ]
+        ],
+        "nudity": [
+            [
+                0,
+                60,
+                2
+            ],
+            [
+                61,
+                122,
+                2
+            ]
+        ],
+        "relationship": [
+            [
+                0,
+                60,
+                1
+            ],
+            [
+                61,
+                122,
+                0
+            ]
+        ],
+        "review": true,
+        "note": ""
+    }
+}

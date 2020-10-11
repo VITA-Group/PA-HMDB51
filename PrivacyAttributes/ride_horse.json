@@ -1,0 +1,502 @@
+{
+    "Alifestyle_ride_horse_f_cm_np1_ri_med_6.avi": {
+        "face": [
+            [
+                0,
+                109,
+                1
+            ]
+        ],
+        "gender": [
+            [
+                0,
+                109,
+                1
+            ]
+        ],
+        "skin_color": [
+            [
+                0,
+                109,
+                1
+            ]
+        ],
+        "nudity": [
+            [
+                0,
+                109,
+                0
+            ]
+        ],
+        "relationship": [
+            [
+                0,
+                109,
+                0
+            ]
+        ],
+        "review": false,
+        "note": ""
+    },
+    "BethEventingTraingGeorge_ride_horse_f_cm_np1_le_med_2.avi": {
+        "face": [
+            [
+                0,
+                8,
+                0
+            ],
+            [
+                9,
+                50,
+                1
+            ],
+            [
+                51,
+                84,
+                0
+            ],
+            [
+                85,
+                92,
+                1
+            ]
+        ],
+        "gender": [
+            [
+                0,
+                92,
+                2
+            ]
+        ],
+        "skin_color": [
+            [
+                0,
+                92,
+                1
+            ]
+        ],
+        "nudity": [
+            [
+                0,
+                92,
+                1
+            ]
+        ],
+        "relationship": [
+            [
+                0,
+                92,
+                0
+            ]
+        ],
+        "review": true,
+        "note": ""
+    },
+    "BethEventingTraingGeorge_ride_horse_f_cm_np1_ri_med_8.avi": {
+        "face": [
+            [
+                0,
+                84,
+                1
+            ],
+            [
+                85,
+                94,
+                0
+            ]
+        ],
+        "gender": [
+            [
+                0,
+                94,
+                2
+            ]
+        ],
+        "skin_color": [
+            [
+                0,
+                94,
+                1
+            ]
+        ],
+        "nudity": [
+            [
+                0,
+                94,
+                1
+            ]
+        ],
+        "relationship": [
+            [
+                0,
+                94,
+                0
+            ]
+        ],
+        "review": true,
+        "note": ""
+    },
+    "Caspar_ride_horse_f_cm_np1_ri_med_3.avi": {
+        "face": [
+            [
+                0,
+                101,
+                2
+            ],
+            [
+                102,
+                376,
+                1
+            ]
+        ],
+        "gender": [
+            [
+                0,
+                376,
+                2
+            ]
+        ],
+        "skin_color": [
+            [
+                0,
+                376,
+                1
+            ]
+        ],
+        "nudity": [
+            [
+                0,
+                376,
+                0
+            ]
+        ],
+        "relationship": [
+            [
+                0,
+                376,
+                0
+            ]
+        ],
+        "review": false,
+        "note": ""
+    },
+    "ChelseaLately-Chelsea_ride_horse_f_cm_np1_le_med_6.avi": {
+        "face": [
+            [
+                0,
+                100,
+                1
+            ],
+            [
+                101,
+                111,
+                2
+            ],
+            [
+                112,
+                117,
+                1
+            ],
+            [
+                118,
+                131,
+                0
+            ]
+        ],
+        "gender": [
+            [
+                0,
+                131,
+                2
+            ]
+        ],
+        "skin_color": [
+            [
+                0,
+                131,
+                1
+            ]
+        ],
+        "nudity": [
+            [
+                0,
+                131,
+                1
+            ]
+        ],
+        "relationship": [
+            [
+                0,
+                131,
+                0
+            ]
+        ],
+        "review": false,
+        "note": ""
+    },
+    "Fellowship_4_ride_horse_u_cm_np1_fr_med_1.avi": {
+        "face": [
+            [
+                0,
+                10,
+                2
+            ],
+            [
+                11,
+                13,
+                1
+            ],
+            [
+                14,
+                117,
+                2
+            ]
+        ],
+        "gender": [
+            [
+                0,
+                10,
+                1
+            ],
+            [
+                11,
+                117,
+                1
+            ]
+        ],
+        "skin_color": [
+            [
+                0,
+                10,
+                1
+            ],
+            [
+                11,
+                117,
+                1
+            ]
+        ],
+        "nudity": [
+            [
+                0,
+                10,
+                0
+            ],
+            [
+                11,
+                117,
+                0
+            ]
+        ],
+        "relationship": [
+            [
+                0,
+                10,
+                0
+            ],
+            [
+                11,
+                117,
+                0
+            ]
+        ],
+        "review": true,
+        "note": ""
+    },
+    "Glory_ride_horse_f_nm_np1_fr_med_14.avi": {
+        "face": [
+            [
+                0,
+                27,
+                0
+            ],
+            [
+                28,
+                63,
+                1
+            ],
+            [
+                64,
+                69,
+                2
+            ],
+            [
+                70,
+                98,
+                1
+            ],
+            [
+                99,
+                107,
+                2
+            ]
+        ],
+        "gender": [
+            [
+                0,
+                107,
+                1
+            ]
+        ],
+        "skin_color": [
+            [
+                0,
+                107,
+                1
+            ]
+        ],
+        "nudity": [
+            [
+                0,
+                107,
+                0
+            ]
+        ],
+        "relationship": [
+            [
+                0,
+                107,
+                0
+            ]
+        ],
+        "review": true,
+        "note": ""
+    },
+    "HorseRiding_ride_horse_f_cm_np1_le_med_2.avi": {
+        "face": [
+            [
+                0,
+                44,
+                1
+            ],
+            [
+                45,
+                48,
+                0
+            ],
+            [
+                49,
+                57,
+                1
+            ],
+            [
+                58,
+                95,
+                0
+            ]
+        ],
+        "gender": [
+            [
+                0,
+                95,
+                2
+            ]
+        ],
+        "skin_color": [
+            [
+                0,
+                95,
+                1
+            ]
+        ],
+        "nudity": [
+            [
+                0,
+                95,
+                0
+            ]
+        ],
+        "relationship": [
+            [
+                0,
+                95,
+                0
+            ]
+        ],
+        "review": false,
+        "note": ""
+    },
+    "Mylifehorseriding_ride_horse_f_cm_np1_ri_med_0.avi": {
+        "face": [
+            [
+                0,
+                117,
+                0
+            ],
+            [
+                118,
+                207,
+                1
+            ]
+        ],
+        "gender": [
+            [
+                0,
+                207,
+                2
+            ]
+        ],
+        "skin_color": [
+            [
+                0,
+                207,
+                1
+            ]
+        ],
+        "nudity": [
+            [
+                0,
+                207,
+                1
+            ]
+        ],
+        "relationship": [
+            [
+                0,
+                207,
+                0
+            ]
+        ],
+        "review": false,
+        "note": ""
+    },
+    "Two_Towers_3_ride_horse_f_cm_np3_fr_med_2.avi": {
+        "face": [
+            [
+                6,
+                207,
+                2
+            ]
+        ],
+        "gender": [
+            [
+                6,
+                207,
+                1
+            ]
+        ],
+        "skin_color": [
+            [
+                6,
+                207,
+                1
+            ]
+        ],
+        "nudity": [
+            [
+                6,
+                207,
+                0
+            ]
+        ],
+        "relationship": [
+            [
+                6,
+                207,
+                1
+            ]
+        ],
+        "review": true,
+        "note": ""
+    }
+}

@@ -1,0 +1,467 @@
+{
+    "Hamlet_(1996)_Fencing_Scenes_fencing_u_cm_np2_fr_med_3.avi": {
+        "face": [
+            [
+                0,
+                74,
+                2
+            ],
+            [
+                75,
+                80,
+                0
+            ]
+        ],
+        "gender": [
+            [
+                0,
+                74,
+                1
+            ],
+            [
+                75,
+                80,
+                1
+            ]
+        ],
+        "note": "",
+        "relationship": [
+            [
+                0,
+                74,
+                0
+            ],
+            [
+                75,
+                80,
+                0
+            ]
+        ],
+        "nudity": [
+            [
+                0,
+                74,
+                0
+            ],
+            [
+                75,
+                80,
+                0
+            ]
+        ],
+        "skin_color": [
+            [
+                0,
+                74,
+                1
+            ],
+            [
+                75,
+                80,
+                1
+            ]
+        ],
+        "review": true
+    },
+    "Great_Movie_Lessons_-_The_First_Zorro_-_Mask_of_Zorro_fencing_u_cm_np2_le_med_0.avi": {
+        "face": [
+            [
+                0,
+                201,
+                2
+            ],
+            [
+                202,
+                298,
+                0
+            ]
+        ],
+        "gender": [
+            [
+                0,
+                201,
+                1
+            ],
+            [
+                202,
+                298,
+                0
+            ]
+        ],
+        "note": "",
+        "relationship": [
+            [
+                0,
+                201,
+                0
+            ],
+            [
+                202,
+                298,
+                0
+            ]
+        ],
+        "nudity": [
+            [
+                0,
+                201,
+                0
+            ],
+            [
+                202,
+                298,
+                0
+            ]
+        ],
+        "skin_color": [
+            [
+                0,
+                201,
+                1
+            ],
+            [
+                202,
+                298,
+                0
+            ]
+        ],
+        "review": true
+    },
+    "Rapier_drills_fencing_f_cm_np2_le_bad_0.avi": {
+        "face": [
+            [
+                0,
+                75,
+                0
+            ]
+        ],
+        "gender": [
+            [
+                0,
+                75,
+                1
+            ]
+        ],
+        "note": "",
+        "relationship": [
+            [
+                0,
+                75,
+                0
+            ]
+        ],
+        "nudity": [
+            [
+                0,
+                75,
+                1
+            ]
+        ],
+        "skin_color": [
+            [
+                0,
+                75,
+                1
+            ]
+        ],
+        "review": true
+    },
+    "Epee_Fencing_Attacks_-_Remises_fencing_f_nm_np2_le_bad_2.avi": {
+        "face": [
+            [
+                0,
+                62,
+                1
+            ]
+        ],
+        "gender": [
+            [
+                0,
+                62,
+                2
+            ]
+        ],
+        "note": "",
+        "relationship": [
+            [
+                0,
+                62,
+                0
+            ]
+        ],
+        "nudity": [
+            [
+                0,
+                62,
+                1
+            ]
+        ],
+        "skin_color": [
+            [
+                0,
+                62,
+                1
+            ]
+        ],
+        "review": true
+    },
+    "AHF_Rapier_fencing_f_cm_np2_ba_bad_5.avi": {
+        "face": [
+            [
+                0,
+                61,
+                0
+            ]
+        ],
+        "gender": [
+            [
+                0,
+                61,
+                0
+            ]
+        ],
+        "note": "",
+        "relationship": [
+            [
+                0,
+                61,
+                0
+            ]
+        ],
+        "nudity": [
+            [
+                0,
+                61,
+                0
+            ]
+        ],
+        "skin_color": [
+            [
+                0,
+                61,
+                0
+            ]
+        ],
+        "review": true
+    },
+    "Advanced_Rapier_fencing_f_cm_np2_ri_bad_4.avi": {
+        "face": [
+            [
+                0,
+                38,
+                1
+            ]
+        ],
+        "gender": [
+            [
+                0,
+                38,
+                2
+            ]
+        ],
+        "note": "",
+        "relationship": [
+            [
+                0,
+                38,
+                0
+            ]
+        ],
+        "nudity": [
+            [
+                0,
+                38,
+                1
+            ]
+        ],
+        "skin_color": [
+            [
+                0,
+                38,
+                1
+            ]
+        ],
+        "review": true
+    },
+    "Duel_with_Rapiers_fencing_f_cm_np2_ri_bad_0.avi": {
+        "face": [
+            [
+                0,
+                53,
+                1
+            ]
+        ],
+        "gender": [
+            [
+                0,
+                53,
+                1
+            ]
+        ],
+        "note": "",
+        "relationship": [
+            [
+                0,
+                53,
+                0
+            ]
+        ],
+        "nudity": [
+            [
+                0,
+                53,
+                0
+            ]
+        ],
+        "skin_color": [
+            [
+                0,
+                53,
+                1
+            ]
+        ],
+        "review": true
+    },
+    "Hamlet_(1996)_Fencing_Scenes_fencing_u_cm_np2_fr_med_2.avi": {
+        "face": [
+            [
+                11,
+                73,
+                1
+            ]
+        ],
+        "gender": [
+            [
+                11,
+                73,
+                1
+            ]
+        ],
+        "note": "",
+        "relationship": [
+            [
+                11,
+                73,
+                0
+            ]
+        ],
+        "nudity": [
+            [
+                11,
+                73,
+                0
+            ]
+        ],
+        "skin_color": [
+            [
+                11,
+                73,
+                1
+            ]
+        ],
+        "review": true
+    },
+    "Advanced_Rapier_fencing_f_cm_np2_le_bad_0.avi": {
+        "face": [
+            [
+                0,
+                56,
+                1
+            ]
+        ],
+        "gender": [
+            [
+                0,
+                56,
+                2
+            ]
+        ],
+        "note": "",
+        "relationship": [
+            [
+                0,
+                56,
+                0
+            ]
+        ],
+        "nudity": [
+            [
+                0,
+                56,
+                2
+            ]
+        ],
+        "skin_color": [
+            [
+                0,
+                56,
+                1
+            ]
+        ],
+        "review": true
+    },
+    "Scaramouche__1952_fencing_u_cm_np2_fr_goo_1.avi": {
+        "face": [
+            [
+                0,
+                134,
+                1
+            ],
+            [
+                135,
+                144,
+                2
+            ]
+        ],
+        "gender": [
+            [
+                0,
+                134,
+                1
+            ],
+            [
+                135,
+                144,
+                1
+            ]
+        ],
+        "note": "",
+        "relationship": [
+            [
+                0,
+                134,
+                0
+            ],
+            [
+                135,
+                144,
+                0
+            ]
+        ],
+        "nudity": [
+            [
+                0,
+                134,
+                1
+            ],
+            [
+                135,
+                144,
+                0
+            ]
+        ],
+        "skin_color": [
+            [
+                0,
+                134,
+                1
+            ],
+            [
+                135,
+                144,
+                1
+            ]
+        ],
+        "review": true
+    }
+}

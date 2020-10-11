@@ -1,0 +1,402 @@
+{
+    "BuddhaPainter_wave_u_nm_np1_fr_med_1.avi": {
+        "face": [
+            [
+                0,
+                137,
+                2
+            ]
+        ],
+        "gender": [
+            [
+                0,
+                137,
+                1
+            ]
+        ],
+        "skin_color": [
+            [
+                0,
+                137,
+                2
+            ]
+        ],
+        "nudity": [
+            [
+                0,
+                137,
+                0
+            ]
+        ],
+        "relationship": [
+            [
+                0,
+                137,
+                0
+            ]
+        ],
+        "review": true
+    },
+    "CharlieAndTheChocolateFactory_wave_u_nm_np1_fr_bad_1.avi": {
+        "face": [
+            [
+                0,
+                22,
+                1
+            ],
+            [
+                23,
+                43,
+                2
+            ]
+        ],
+        "gender": [
+            [
+                0,
+                43,
+                1
+            ]
+        ],
+        "skin_color": [
+            [
+                0,
+                43,
+                1
+            ]
+        ],
+        "nudity": [
+            [
+                0,
+                43,
+                0
+            ]
+        ],
+        "relationship": [
+            [
+                0,
+                43,
+                0
+            ]
+        ],
+        "review": true
+    },
+    "EVOLUTION_wave_u_nm_np1_fr_med_18.avi": {
+        "face": [
+            [
+                0,
+                100,
+                2
+            ]
+        ],
+        "gender": [
+            [
+                0,
+                100,
+                1
+            ]
+        ],
+        "skin_color": [
+            [
+                0,
+                100,
+                2
+            ]
+        ],
+        "nudity": [
+            [
+                0,
+                100,
+                0
+            ]
+        ],
+        "relationship": [
+            [
+                0,
+                93,
+                0
+            ],
+            [
+                94,
+                100,
+                1
+            ]
+        ],
+        "review": true
+    },
+    "Bubble_Gum_Club_2_wave_h_nm_np2_fr_med_0.avi": {
+        "face": [
+            [
+                0,
+                77,
+                2
+            ]
+        ],
+        "gender": [
+            [
+                0,
+                77,
+                2
+            ]
+        ],
+        "skin_color": [
+            [
+                0,
+                77,
+                1
+            ]
+        ],
+        "nudity": [
+            [
+                0,
+                77,
+                1
+            ]
+        ],
+        "relationship": [
+            [
+                0,
+                77,
+                1
+            ]
+        ],
+        "review": true
+    },
+    "KUNG_FU_HUSTLE_wave_f_nm_np1_fr_med_7.avi": {
+        "face": [
+            [
+                0,
+                48,
+                2
+            ]
+        ],
+        "gender": [
+            [
+                0,
+                48,
+                2
+            ]
+        ],
+        "skin_color": [
+            [
+                0,
+                48,
+                2
+            ]
+        ],
+        "nudity": [
+            [
+                0,
+                48,
+                0
+            ]
+        ],
+        "relationship": [
+            [
+                0,
+                48,
+                0
+            ]
+        ],
+        "review": true
+    },
+    "likebeckam_wave_u_cm_np1_fr_med_6.avi": {
+        "face": [
+            [
+                0,
+                43,
+                2
+            ]
+        ],
+        "gender": [
+            [
+                0,
+                43,
+                2
+            ]
+        ],
+        "skin_color": [
+            [
+                0,
+                43,
+                2
+            ]
+        ],
+        "nudity": [
+            [
+                0,
+                43,
+                0
+            ]
+        ],
+        "relationship": [
+            [
+                0,
+                43,
+                0
+            ]
+        ],
+        "review": true
+    },
+    "Maya_beim_Winken_wave_f_cm_np1_fr_med_2.avi": {
+        "face": [
+            [
+                0,
+                185,
+                2
+            ]
+        ],
+        "gender": [
+            [
+                0,
+                185,
+                1
+            ]
+        ],
+        "skin_color": [
+            [
+                0,
+                185,
+                1
+            ]
+        ],
+        "nudity": [
+            [
+                0,
+                185,
+                1
+            ]
+        ],
+        "relationship": [
+            [
+                0,
+                185,
+                0
+            ]
+        ],
+        "review": true
+    },
+    "Oceans12_wave_h_nm_np1_fr_goo_8.avi": {
+        "face": [
+            [
+                0,
+                53,
+                2
+            ]
+        ],
+        "gender": [
+            [
+                0,
+                53,
+                1
+            ]
+        ],
+        "skin_color": [
+            [
+                0,
+                53,
+                1
+            ]
+        ],
+        "nudity": [
+            [
+                0,
+                53,
+                0
+            ]
+        ],
+        "relationship": [
+            [
+                0,
+                53,
+                0
+            ]
+        ],
+        "review": true
+    },
+    "RATRACE_wave_u_nm_np1_fr_med_9.avi": {
+        "face": [
+            [
+                0,
+                18,
+                1
+            ],
+            [
+                19,
+                22,
+                2
+            ]
+        ],
+        "gender": [
+            [
+                0,
+                22,
+                2
+            ]
+        ],
+        "skin_color": [
+            [
+                0,
+                22,
+                3
+            ]
+        ],
+        "nudity": [
+            [
+                0,
+                22,
+                0
+            ]
+        ],
+        "relationship": [
+            [
+                0,
+                22,
+                1
+            ]
+        ],
+        "review": true
+    },
+    "Superbad_wave_f_cm_np1_fr_med_4.avi": {
+        "face": [
+            [
+                0,
+                45,
+                1
+            ],
+            [
+                46,
+                85,
+                2
+            ]
+        ],
+        "gender": [
+            [
+                0,
+                85,
+                1
+            ]
+        ],
+        "skin_color": [
+            [
+                0,
+                85,
+                1
+            ]
+        ],
+        "nudity": [
+            [
+                0,
+                85,
+                1
+            ]
+        ],
+        "relationship": [
+            [
+                0,
+                85,
+                0
+            ]
+        ],
+        "review": true
+    }
+}

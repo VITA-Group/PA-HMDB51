@@ -1,0 +1,397 @@
+{
+    "For_youtube_smiles_smile_h_nm_np1_fr_med_0.avi": {
+        "face": [
+            [
+                0,
+                113,
+                2
+            ]
+        ],
+        "gender": [
+            [
+                0,
+                113,
+                2
+            ]
+        ],
+        "skin_color": [
+            [
+                0,
+                113,
+                2
+            ]
+        ],
+        "nudity": [
+            [
+                0,
+                113,
+                0
+            ]
+        ],
+        "relationship": [
+            [
+                0,
+                113,
+                0
+            ]
+        ],
+        "review": true,
+        "note": ""
+    },
+    "Glory_smile_h_nm_np1_le_goo_6.avi": {
+        "face": [
+            [
+                0,
+                42,
+                2
+            ],
+            [
+                43,
+                70,
+                1
+            ]
+        ],
+        "gender": [
+            [
+                0,
+                70,
+                1
+            ]
+        ],
+        "skin_color": [
+            [
+                0,
+                70,
+                3
+            ]
+        ],
+        "nudity": [
+            [
+                0,
+                70,
+                0
+            ]
+        ],
+        "relationship": [
+            [
+                0,
+                70,
+                0
+            ]
+        ],
+        "review": true,
+        "note": ""
+    },
+    "Pirates_3_smile_h_nm_np1_ri_goo_1.avi": {
+        "face": [
+            [
+                10,
+                57,
+                1
+            ]
+        ],
+        "gender": [
+            [
+                10,
+                57,
+                1
+            ]
+        ],
+        "skin_color": [
+            [
+                10,
+                57,
+                1
+            ]
+        ],
+        "nudity": [
+            [
+                10,
+                57,
+                0
+            ]
+        ],
+        "relationship": [
+            [
+                10,
+                57,
+                1
+            ]
+        ],
+        "review": true,
+        "note": ""
+    },
+    "Re-_Show_your_Smile!_smile_h_nm_np1_fr_goo_0.avi": {
+        "face": [
+            [
+                0,
+                43,
+                2
+            ]
+        ],
+        "gender": [
+            [
+                0,
+                43,
+                1
+            ]
+        ],
+        "skin_color": [
+            [
+                0,
+                43,
+                1
+            ]
+        ],
+        "nudity": [
+            [
+                0,
+                43,
+                0
+            ]
+        ],
+        "relationship": [
+            [
+                0,
+                43,
+                0
+            ]
+        ],
+        "review": true,
+        "note": ""
+    },
+    "Return_of_the_King_1_smile_h_nm_np1_fr_goo_6.avi": {
+        "face": [
+            [
+                0,
+                60,
+                2
+            ]
+        ],
+        "gender": [
+            [
+                0,
+                60,
+                1
+            ]
+        ],
+        "skin_color": [
+            [
+                0,
+                60,
+                1
+            ]
+        ],
+        "nudity": [
+            [
+                0,
+                60,
+                0
+            ]
+        ],
+        "relationship": [
+            [
+                0,
+                60,
+                0
+            ]
+        ],
+        "review": true,
+        "note": ""
+    },
+    "SE7EN_SMILES_x3_smile_h_nm_np1_fr_bad_7.avi": {
+        "face": [
+            [
+                0,
+                62,
+                2
+            ]
+        ],
+        "gender": [
+            [
+                0,
+                62,
+                1
+            ]
+        ],
+        "skin_color": [
+            [
+                0,
+                62,
+                2
+            ]
+        ],
+        "nudity": [
+            [
+                0,
+                62,
+                0
+            ]
+        ],
+        "relationship": [
+            [
+                0,
+                62,
+                0
+            ]
+        ],
+        "review": true,
+        "note": ""
+    },
+    "smile_collection_7_smile_h_nm_np1_fr_goo_0.avi": {
+        "face": [
+            [
+                0,
+                77,
+                2
+            ]
+        ],
+        "gender": [
+            [
+                0,
+                77,
+                2
+            ]
+        ],
+        "skin_color": [
+            [
+                0,
+                77,
+                1
+            ]
+        ],
+        "nudity": [
+            [
+                0,
+                77,
+                0
+            ]
+        ],
+        "relationship": [
+            [
+                0,
+                77,
+                0
+            ]
+        ],
+        "review": true,
+        "note": ""
+    },
+    "SMILES_FROM_OFF_THE_ROAD_2_-TREASURING_THE_GIRLCHILD_smile_h_nm_np1_fr_med_0.avi": {
+        "face": [
+            [
+                0,
+                99,
+                2
+            ]
+        ],
+        "gender": [
+            [
+                0,
+                99,
+                2
+            ]
+        ],
+        "skin_color": [
+            [
+                0,
+                99,
+                2
+            ]
+        ],
+        "nudity": [
+            [
+                0,
+                99,
+                0
+            ]
+        ],
+        "relationship": [
+            [
+                0,
+                99,
+                0
+            ]
+        ],
+        "review": true,
+        "note": ""
+    },
+    "SMILES_FROM_OFF_THE_ROAD_3_-TRAVELS_WITH_A_HAT_smile_h_nm_np1_fr_goo_0.avi": {
+        "face": [
+            [
+                0,
+                86,
+                2
+            ]
+        ],
+        "gender": [
+            [
+                0,
+                86,
+                1
+            ]
+        ],
+        "skin_color": [
+            [
+                0,
+                86,
+                2
+            ]
+        ],
+        "nudity": [
+            [
+                0,
+                86,
+                0
+            ]
+        ],
+        "relationship": [
+            [
+                0,
+                86,
+                0
+            ]
+        ],
+        "review": true,
+        "note": ""
+    },
+    "SMILES_FROM_OFF_THE_ROAD_3_-TRAVELS_WITH_A_HAT_smile_h_nm_np1_fr_med_1.avi": {
+        "face": [
+            [
+                0,
+                78,
+                2
+            ]
+        ],
+        "gender": [
+            [
+                0,
+                78,
+                2
+            ]
+        ],
+        "skin_color": [
+            [
+                0,
+                78,
+                2
+            ]
+        ],
+        "nudity": [
+            [
+                0,
+                78,
+                0
+            ]
+        ],
+        "relationship": [
+            [
+                0,
+                78,
+                0
+            ]
+        ],
+        "review": true,
+        "note": ""
+    }
+}
