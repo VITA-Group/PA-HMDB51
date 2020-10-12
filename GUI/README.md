@@ -19,3 +19,6 @@ Save the privacy attribute labels in folder `<PA_label_root_dir>` (e.g., `./HMDB
 ![](imgs/step2.PNG)
 
 * Use the video control buttons ("previous frame", "next frame", "start/stop", "restart") to check the labels of each frame.
+
+## Acknowledgements
+The authors would like to sincerely thank Scott Hoang for his contribution in building this GUI.
