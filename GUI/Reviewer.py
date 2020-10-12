@@ -139,11 +139,11 @@ class Reviewer:
         self.menu_frames_reviewed.grid(row=1, column=2)
 
         # Annotation widget:
-        Label(self.annotation_widget, text="current frame:").grid(row=0, sticky=W)
-        Label(self.annotation_widget, textvariable=self.current_frame).grid(row=0, padx=85, sticky=E)
+        Label(self.annotation_widget, text="current frame:", width=15, anchor="w").grid(row=0, column=0, sticky=W)
+        Label(self.annotation_widget, textvariable=self.current_frame, width=40, anchor="w").grid(row=0, column=1, sticky=E)
         for i, attribute in enumerate(self.attributes):
-            Label(self.annotation_widget, text=attribute + ":").grid(row=i + 1, column=0, sticky=W)
-            Label(self.annotation_widget, textvariable=self.attributes[attribute][0]).grid(row=i + 1, padx=85, sticky=E)
+            Label(self.annotation_widget, text=attribute + ":", width=15, anchor="w").grid(row=i + 1, column=0, sticky=W)
+            Label(self.annotation_widget, textvariable=self.attributes[attribute][0], width=40, anchor="w").grid(row=i + 1, column=1, sticky=E)
 
         # Comment widget:
         Button(self.comment_widget, text="video is ready", command=self.ready, width=15).grid(row=1, column=1)
@@ -242,7 +242,7 @@ class Reviewer:
             self.end_frame = len(self.vid.frames)
             self.runner_frame = self.start_frame
             self.canvas_vid = Canvas(self.video_widget, width=self.vid.width, height=self.vid.height)
-            self.canvas_vid.grid(row=0, sticky=W)
+            self.canvas_vid.grid(row=0)
             self._start()
             if 'note' in self.meta_data[vid_name]:
                 self.scroll.delete('1.0', END)
@@ -379,7 +379,7 @@ if __name__ == '__main__':
     # argparser
     parser= argparse.ArgumentParser()
     parser.add_argument('--hmdb51_video_root_dir', '--vd', default='D:\hmdb51_org', help='root dir for the original HMDB51 dataset')
-    parser.add_argument('--PA_label_root_dir', '-pd', default='D:\HMDB51_PrivacyAttributes', help='root dir for privacy attribute labels (stored in JSON files)')
+    parser.add_argument('--PA_label_root_dir', '-pd', default='D:\PA-HMDB51\PrivacyAttributes', help='root dir for privacy attribute labels (stored in JSON files)')
     args = parser.parse_args()
 
     root = tk.Tk() 
