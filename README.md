@@ -1,5 +1,5 @@
 # PA-HMDB51 Dataset
-This is the repo to host privacy attribute labels and GUIs for PA-HMDB51 (privacy annotated HMDB51) dataset published in our TPAMI [paper](http://arxiv.org/abs/1906.05675). **For more detailed descriptions of the dataset, please check our [project homepage](http://people.tamu.edu/~htwang/PA-HMDB51-website/index.html).**
+This repo hosts privacy attribute labels and GUIs for the PA-HMDB51 (privacy annotated HMDB51) dataset published in our TPAMI [paper](http://arxiv.org/abs/1906.05675). **For more detailed descriptions of the dataset, please check our [project homepage](http://people.tamu.edu/~htwang/PA-HMDB51-website/index.html).**
 
 ## Download Dataset 
 Frame-wise privacy attribute annotations on the original HMDB-51 videos are provided in `PrivacyAttributes` folder. The annotations can also be downloaded though [Google Drive](https://drive.google.com/drive/u/1/folders/1NH71LxF3rTwTSnxXcA3Wy8GOn6JluGNr).
