@@ -1,0 +1,717 @@
+{
+    "DONNIE_DARKO_jump_f_nm_np1_fr_med_7.avi": {
+        "review": true,
+        "face": [
+            [
+                0,
+                164,
+                2
+            ]
+        ],
+        "relationship": [
+            [
+                0,
+                164,
+                0
+            ]
+        ],
+        "gender": [
+            [
+                0,
+                164,
+                2
+            ]
+        ],
+        "note": "",
+        "skin_color": [
+            [
+                0,
+                164,
+                1
+            ]
+        ],
+        "nudity": [
+            [
+                0,
+                164,
+                1
+            ]
+        ]
+    },
+    "KUNG_FU_HUSTLE_jump_f_cm_np1_le_bad_57.avi": {
+        "review": true,
+        "face": [
+            [
+                0,
+                22,
+                1
+            ],
+            [
+                23,
+                51,
+                0
+            ]
+        ],
+        "relationship": [
+            [
+                0,
+                22,
+                0
+            ],
+            [
+                23,
+                51,
+                0
+            ]
+        ],
+        "gender": [
+            [
+                0,
+                22,
+                2
+            ],
+            [
+                23,
+                51,
+                1
+            ]
+        ],
+        "note": "",
+        "skin_color": [
+            [
+                0,
+                22,
+                2
+            ],
+            [
+                23,
+                51,
+                2
+            ]
+        ],
+        "nudity": [
+            [
+                0,
+                22,
+                0
+            ],
+            [
+                23,
+                51,
+                0
+            ]
+        ]
+    },
+    "Gregoire_Airman_showreel_2008_jump_f_cm_np1_ba_bad_1.avi": {
+        "review": true,
+        "face": [
+            [
+                0,
+                48,
+                0
+            ]
+        ],
+        "relationship": [
+            [
+                0,
+                48,
+                0
+            ]
+        ],
+        "gender": [
+            [
+                0,
+                48,
+                1
+            ]
+        ],
+        "note": "",
+        "skin_color": [
+            [
+                0,
+                48,
+                1
+            ]
+        ],
+        "nudity": [
+            [
+                0,
+                48,
+                2
+            ]
+        ]
+    },
+    "Arrasando_no_Le_Parkour_jump_f_nm_np1_le_med_2.avi": {
+        "review": true,
+        "face": [
+            [
+                13,
+                23,
+                1
+            ],
+            [
+                24,
+                46,
+                0
+            ]
+        ],
+        "relationship": [
+            [
+                13,
+                23,
+                0
+            ],
+            [
+                24,
+                46,
+                0
+            ]
+        ],
+        "gender": [
+            [
+                13,
+                23,
+                1
+            ],
+            [
+                24,
+                46,
+                1
+            ]
+        ],
+        "note": "",
+        "skin_color": [
+            [
+                13,
+                23,
+                1
+            ],
+            [
+                24,
+                46,
+                1
+            ]
+        ],
+        "nudity": [
+            [
+                13,
+                23,
+                1
+            ],
+            [
+                24,
+                46,
+                1
+            ]
+        ]
+    },
+    "le_parkour_kl_jump_l_nm_np1_ri_bad_0.avi": {
+        "review": true,
+        "face": [
+            [
+                0,
+                89,
+                0
+            ]
+        ],
+        "relationship": [
+            [
+                0,
+                89,
+                0
+            ]
+        ],
+        "gender": [
+            [
+                0,
+                89,
+                0
+            ]
+        ],
+        "note": "",
+        "skin_color": [
+            [
+                0,
+                89,
+                1
+            ]
+        ],
+        "nudity": [
+            [
+                0,
+                89,
+                0
+            ]
+        ]
+    },
+    "happy_go_lovely_jump_f_cm_np1_fr_bad_20.avi": {
+        "review": true,
+        "face": [
+            [
+                0,
+                39,
+                1
+            ],
+            [
+                40,
+                47,
+                2
+            ]
+        ],
+        "relationship": [
+            [
+                0,
+                47,
+                0
+            ]
+        ],
+        "gender": [
+            [
+                0,
+                47,
+                2
+            ]
+        ],
+        "note": "",
+        "skin_color": [
+            [
+                0,
+                47,
+                1
+            ]
+        ],
+        "nudity": [
+            [
+                0,
+                47,
+                1
+            ]
+        ]
+    },
+    "IamLegend_jump_f_cm_np1_ba_bad_12.avi": {
+        "review": true,
+        "face": [
+            [
+                0,
+                22,
+                0
+            ]
+        ],
+        "relationship": [
+            [
+                0,
+                22,
+                0
+            ]
+        ],
+        "gender": [
+            [
+                0,
+                22,
+                1
+            ]
+        ],
+        "note": "",
+        "skin_color": [
+            [
+                0,
+                22,
+                0
+            ]
+        ],
+        "nudity": [
+            [
+                0,
+                22,
+                0
+            ]
+        ]
+    },
+    "KUNG_FU_HUSTLE_jump_f_cm_np1_fr_bad_16.avi": {
+        "review": true,
+        "face": [
+            [
+                8,
+                49,
+                2
+            ]
+        ],
+        "relationship": [
+            [
+                8,
+                49,
+                0
+            ]
+        ],
+        "gender": [
+            [
+                8,
+                49,
+                1
+            ]
+        ],
+        "note": "",
+        "skin_color": [
+            [
+                8,
+                49,
+                2
+            ]
+        ],
+        "nudity": [
+            [
+                8,
+                49,
+                1
+            ]
+        ]
+    },
+    "Gregoire_Airman_showreel_2008_jump_f_cm_np1_ri_bad_5.avi": {
+        "review": true,
+        "face": [
+            [
+                0,
+                40,
+                1
+            ]
+        ],
+        "relationship": [
+            [
+                0,
+                40,
+                0
+            ]
+        ],
+        "gender": [
+            [
+                0,
+                40,
+                1
+            ]
+        ],
+        "note": "",
+        "skin_color": [
+            [
+                0,
+                40,
+                1
+            ]
+        ],
+        "nudity": [
+            [
+                0,
+                40,
+                1
+            ]
+        ]
+    },
+    "BATMAN_BEGINS_jump_f_cm_np1_ri_med_18.avi": {
+        "review": true,
+        "face": [
+            [
+                0,
+                18,
+                1
+            ],
+            [
+                19,
+                45,
+                0
+            ],
+            [
+                46,
+                46,
+                2
+            ]
+        ],
+        "relationship": [
+            [
+                0,
+                46,
+                0
+            ]
+        ],
+        "gender": [
+            [
+                0,
+                18,
+                1
+            ],
+            [
+                19,
+                45,
+                0
+            ],
+            [
+                46,
+                46,
+                2
+            ]
+        ],
+        "note": "",
+        "skin_color": [
+            [
+                0,
+                18,
+                1
+            ],
+            [
+                19,
+                45,
+                0
+            ],
+            [
+                46,
+                46,
+                1
+            ]
+        ],
+        "nudity": [
+            [
+                0,
+                46,
+                0
+            ]
+        ]
+    },
+    "Learn_Freerunning_and_Parkour__-_Diving_Kong_jump_f_cm_np1_fr_bad_4.avi": {
+        "review": true,
+        "face": [
+            [
+                0,
+                33,
+                2
+            ],
+            [
+                34,
+                61,
+                1
+            ]
+        ],
+        "relationship": [
+            [
+                0,
+                61,
+                0
+            ]
+        ],
+        "gender": [
+            [
+                0,
+                61,
+                1
+            ]
+        ],
+        "note": "",
+        "skin_color": [
+            [
+                0,
+                61,
+                1
+            ]
+        ],
+        "nudity": [
+            [
+                0,
+                61,
+                1
+            ]
+        ]
+    },
+    "Goalkeeper_Felix_Schwake_jump_f_cm_np1_le_bad_6.avi": {
+        "review": true,
+        "face": [
+            [
+                0,
+                38,
+                2
+            ],
+            [
+                39,
+                48,
+                0
+            ]
+        ],
+        "relationship": [
+            [
+                0,
+                38,
+                0
+            ],
+            [
+                39,
+                48,
+                0
+            ]
+        ],
+        "gender": [
+            [
+                0,
+                38,
+                1
+            ],
+            [
+                39,
+                48,
+                1
+            ]
+        ],
+        "note": "",
+        "skin_color": [
+            [
+                0,
+                38,
+                1
+            ],
+            [
+                39,
+                48,
+                1
+            ]
+        ],
+        "nudity": [
+            [
+                0,
+                38,
+                1
+            ],
+            [
+                39,
+                48,
+                1
+            ]
+        ]
+    },
+    "Gregoire_Airman_showreel_2008_jump_f_cm_np1_le_bad_0.avi": {
+        "review": true,
+        "face": [
+            [
+                11,
+                28,
+                1
+            ],
+            [
+                29,
+                41,
+                0
+            ],
+            [
+                42,
+                51,
+                0
+            ],
+            [
+                52,
+                57,
+                0
+            ]
+        ],
+        "relationship": [
+            [
+                11,
+                57,
+                0
+            ]
+        ],
+        "gender": [
+            [
+                11,
+                57,
+                1
+            ]
+        ],
+        "note": "",
+        "skin_color": [
+            [
+                11,
+                57,
+                1
+            ]
+        ],
+        "nudity": [
+            [
+                11,
+                57,
+                1
+            ]
+        ]
+    },
+    "LE_PARKOUR_BRASIL_DIOGO_GRANATO_(HD)_jump_u_cm_np1_le_bad_0.avi": {
+        "review": true,
+        "face": [
+            [
+                0,
+                55,
+                1
+            ]
+        ],
+        "relationship": [
+            [
+                0,
+                55,
+                0
+            ]
+        ],
+        "gender": [
+            [
+                0,
+                55,
+                1
+            ]
+        ],
+        "note": "",
+        "skin_color": [
+            [
+                0,
+                55,
+                1
+            ]
+        ],
+        "nudity": [
+            [
+                0,
+                55,
+                2
+            ]
+        ]
+    },
+    "LONGESTYARD_jump_f_cm_np1_le_bad_14.avi": {
+        "review": true,
+        "face": [
+            [
+                0,
+                52,
+                0
+            ]
+        ],
+        "relationship": [
+            [
+                0,
+                52,
+                1
+            ]
+        ],
+        "gender": [
+            [
+                0,
+                52,
+                1
+            ]
+        ],
+        "note": "",
+        "skin_color": [
+            [
+                0,
+                52,
+                3
+            ]
+        ],
+        "nudity": [
+            [
+                0,
+                52,
+                1
+            ]
+        ]
+    }
+}

@@ -1,0 +1,239 @@
+{
+    "CSC_and_the_2007__Sydney_to_the_Gong__bike_ride_ride_bike_f_cm_np1_ri_med_2.avi": {
+        "face": [
+            [
+                0,
+                78,
+                2
+            ]
+        ],
+        "gender": [
+            [
+                0,
+                78,
+                1
+            ]
+        ],
+        "skin_color": [
+            [
+                0,
+                78,
+                1
+            ]
+        ],
+        "nudity": [
+            [
+                0,
+                78,
+                1
+            ]
+        ],
+        "relationship": [
+            [
+                0,
+                78,
+                0
+            ]
+        ],
+        "review": false,
+        "note": ""
+    },
+    "Fahrrad_Eigenbau_ride_bike_f_cm_np1_le_med_1.avi": {
+        "face": [
+            [
+                0,
+                134,
+                1
+            ]
+        ],
+        "gender": [
+            [
+                0,
+                134,
+                2
+            ]
+        ],
+        "skin_color": [
+            [
+                0,
+                134,
+                1
+            ]
+        ],
+        "nudity": [
+            [
+                0,
+                134,
+                1
+            ]
+        ],
+        "relationship": [
+            [
+                0,
+                134,
+                0
+            ]
+        ],
+        "review": true,
+        "note": ""
+    },
+    "Fahrrad_fahren_mit_Albert_ride_bike_f_cm_np1_ba_med_1.avi": {
+        "face": [
+            [
+                0,
+                151,
+                0
+            ]
+        ],
+        "gender": [
+            [
+                0,
+                151,
+                1
+            ]
+        ],
+        "skin_color": [
+            [
+                0,
+                151,
+                0
+            ]
+        ],
+        "nudity": [
+            [
+                0,
+                151,
+                0
+            ]
+        ],
+        "relationship": [
+            [
+                0,
+                151,
+                0
+            ]
+        ],
+        "review": true,
+        "note": ""
+    },
+    "Fahrrad_fahren_mit_Albert_ride_bike_f_cm_np1_ba_med_3.avi": {
+        "face": [
+            [
+                0,
+                103,
+                0
+            ]
+        ],
+        "gender": [
+            [
+                0,
+                103,
+                1
+            ]
+        ],
+        "skin_color": [
+            [
+                0,
+                103,
+                0
+            ]
+        ],
+        "nudity": [
+            [
+                0,
+                103,
+                0
+            ]
+        ],
+        "relationship": [
+            [
+                0,
+                103,
+                0
+            ]
+        ],
+        "review": true,
+        "note": ""
+    },
+    "Fahrrad_fahren_ride_bike_f_cm_np2_le_med_2.avi": {
+        "face": [
+            [
+                0,
+                135,
+                1
+            ]
+        ],
+        "gender": [
+            [
+                0,
+                135,
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        "skin_color": [
+            [
+                0,
+                135,
+                1
+            ]
+        ],
+        "nudity": [
+            [
+                0,
+                135,
+                1
+            ]
+        ],
+        "relationship": [
+            [
+                0,
+                135,
+                1
+            ]
+        ],
+        "review": true,
+        "note": ""
+    },
+    "I_want_to_ride_my_bicycle_ride_bike_f_cm_np1_le_med_0.avi": {
+        "face": [
+            [
+                0,
+                118,
+                1
+            ]
+        ],
+        "gender": [
+            [
+                0,
+                118,
+                2
+            ]
+        ],
+        "skin_color": [
+            [
+                0,
+                118,
+                1
+            ]
+        ],
+        "nudity": [
+            [
+                0,
+                118,
+                1
+            ]
+        ],
+        "relationship": [
+            [
+                0,
+                118,
+                0
+            ]
+        ],
+        "review": false,
+        "note": ""
+    }
+}

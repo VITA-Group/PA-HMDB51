@@ -1,0 +1,241 @@
+{
+    "5GreatHollywoodKisses_kiss_h_cm_np2_ri_goo_1.avi": {
+        "face": [
+            [
+                0,
+                195,
+                2
+            ],
+            [
+                196,
+                258,
+                1
+            ]
+        ],
+        "gender": [
+            [
+                0,
+                258,
+                [1,2]
+            ]
+        ],
+        "skin_color": [
+            [
+                0,
+                258,
+                1
+            ]
+        ],
+        "nudity": [
+            [
+                0,
+                258,
+                0
+            ]
+        ],
+        "relationship": [
+            [
+                0,
+                258,
+                1
+            ]
+        ],
+        "review": false,
+        "note": ""
+    },
+    "5GreatHollywoodKisses_kiss_u_nm_np2_ri_goo_2.avi": {
+        "face": [
+            [
+                0,
+                274,
+                1
+            ]
+        ],
+        "gender": [
+            [
+                0,
+                274,
+                [1,2]
+            ]
+        ],
+        "skin_color": [
+            [
+                0,
+                274,
+                1
+            ]
+        ],
+        "nudity": [
+            [
+                0,
+                274,
+                0
+            ]
+        ],
+        "relationship": [
+            [
+                0,
+                274,
+                1
+            ]
+        ],
+        "review": false,
+        "note": ""
+    },
+    "A_Beautiful_Mind_3_kiss_h_cm_np2_le_goo_1.avi": {
+        "face": [
+            [
+                0,
+                153,
+                1
+            ]
+        ],
+        "gender": [
+            [
+                0,
+                153,
+                [1,2]
+            ]
+        ],
+        "skin_color": [
+            [
+                0,
+                153,
+                1
+            ]
+        ],
+        "nudity": [
+            [
+                0,
+                153,
+                1
+            ]
+        ],
+        "relationship": [
+            [
+                0,
+                153,
+                1
+            ]
+        ],
+        "review": false,
+        "note": ""
+    },
+    "Best_kisses_kiss_h_cm_np2_le_goo_6.avi": {
+        "face": [
+            [
+                0,
+                541,
+                1
+            ]
+        ],
+        "gender": [
+            [
+                0,
+                541,
+                [1,2]
+            ]
+        ],
+        "skin_color": [
+            [
+                0,
+                541,
+                1
+            ]
+        ],
+        "nudity": [
+            [
+                0,
+                541,
+                0
+            ]
+        ],
+        "relationship": [
+            [
+                0,
+                541,
+                1
+            ]
+        ],
+        "review": false,
+        "note": ""
+    },
+    "Hangingbyamomentfavoritekisses_kiss_h_nm_np2_ri_goo_4.avi": {
+        "face": [
+            [
+                0,
+                168,
+                1
+            ]
+        ],
+        "gender": [
+            [
+                0,
+                168,
+                [1,2]
+            ]
+        ],
+        "skin_color": [
+            [
+                0,
+                168,
+                1
+            ]
+        ],
+        "nudity": [
+            [
+                0,
+                168,
+                0
+            ]
+        ],
+        "relationship": [
+            [
+                0,
+                168,
+                1
+            ]
+        ],
+        "review": false,
+        "note": ""
+    },
+    "Hangingbyamomentfavoritekisses_kiss_u_cm_np2_le_goo_8.avi": {
+        "face": [
+            [
+                0,
+                198,
+                1
+            ]
+        ],
+        "gender": [
+            [
+                0,
+                198,
+                [1,2]
+            ]
+        ],
+        "skin_color": [
+            [
+                0,
+                198,
+                1
+            ]
+        ],
+        "nudity": [
+            [
+                1,
+                198,
+                1
+            ]
+        ],
+        "relationship": [
+            [
+                0,
+                198,
+                1
+            ]
+        ],
+        "review": false,
+        "note": ""
+    }
+}

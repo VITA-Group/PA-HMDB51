@@ -1,0 +1,290 @@
+{
+    "10YearOldYouthBasketballStarBaller_dribble_f_nm_np1_ba_med_17.avi": {
+        "face": [
+            [
+                0,
+                98,
+                2
+            ]
+        ],
+        "gender": [
+            [
+                0,
+                98,
+                1
+            ]
+        ],
+        "skin_color": [
+            [
+                0,
+                98,
+                3
+            ]
+        ],
+        "nudity": [
+            [
+                0,
+                98,
+                1
+            ]
+        ],
+        "relationship": [
+            [
+                0,
+                98,
+                1
+            ]
+        ],
+        "review": true,
+        "note": ""
+    },
+    "AdamandAlvonplayingbasketball1_dribble_f_cm_np1_fr_med_5.avi": {
+        "face": [
+            [
+                0,
+                15,
+                1
+            ],
+            [
+                16,
+                94,
+                2
+            ]
+        ],
+        "gender": [
+            [
+                0,
+                94,
+                1
+            ]
+        ],
+        "skin_color": [
+            [
+                0,
+                94,
+                [
+                    2,
+                    3
+                ]
+            ]
+        ],
+        "nudity": [
+            [
+                0,
+                94,
+                1
+            ]
+        ],
+        "relationship": [
+            [
+                0,
+                94,
+                1
+            ]
+        ],
+        "review": true,
+        "note": ""
+    },
+    "AdamandAlvonplayingbasketball1_dribble_f_cm_np1_ri_med_2.avi": {
+        "face": [
+            [
+                0,
+                53,
+                2
+            ],
+            [
+                54,
+                64,
+                1
+            ],
+            [
+                65,
+                75,
+                2
+            ],
+            [
+                76,
+                85,
+                1
+            ],
+            [
+                86,
+                90,
+                0
+            ],
+            [
+                91,
+                110,
+                2
+            ]
+        ],
+        "gender": [
+            [
+                0,
+                110,
+                1
+            ]
+        ],
+        "skin_color": [
+            [
+                0,
+                110,
+                [
+                    2,
+                    3
+                ]
+            ]
+        ],
+        "nudity": [
+            [
+                0,
+                110,
+                1
+            ]
+        ],
+        "relationship": [
+            [
+                0,
+                110,
+                1
+            ]
+        ],
+        "review": true,
+        "note": ""
+    },
+    "AdamandAlvonplayingbasketball1_dribble_f_nm_np1_fr_med_9.avi": {
+        "face": [
+            [
+                0,
+                85,
+                2
+            ],
+            [
+                86,
+                90,
+                1
+            ],
+            [
+                91,
+                96,
+                2
+            ]
+        ],
+        "gender": [
+            [
+                0,
+                96,
+                1
+            ]
+        ],
+        "skin_color": [
+            [
+                0,
+                96,
+                [
+                    2,
+                    3
+                ]
+            ]
+        ],
+        "nudity": [
+            [
+                0,
+                96,
+                1
+            ]
+        ],
+        "relationship": [
+            [
+                0,
+                96,
+                1
+            ]
+        ],
+        "review": true,
+        "note": ""
+    },
+    "Basic_Basketball_Moves_dribble_f_cm_np1_fr_goo_0.avi": {
+        "face": [
+            [
+                0,
+                20,
+                2
+            ],
+            [
+                21,
+                105,
+                1
+            ]
+        ],
+        "gender": [
+            [
+                0,
+                105,
+                1
+            ]
+        ],
+        "skin_color": [
+            [
+                0,
+                105,
+                3
+            ]
+        ],
+        "nudity": [
+            [
+                0,
+                105,
+                1
+            ]
+        ],
+        "relationship": [
+            [
+                0,
+                105,
+                0
+            ]
+        ],
+        "review": true,
+        "note": ""
+    },
+    "Basic_Basketball_Moves_dribble_f_cm_np1_ri_goo_6.avi": {
+        "face": [
+            [
+                0,
+                77,
+                1
+            ]
+        ],
+        "gender": [
+            [
+                0,
+                77,
+                1
+            ]
+        ],
+        "skin_color": [
+            [
+                0,
+                77,
+                3
+            ]
+        ],
+        "nudity": [
+            [
+                0,
+                77,
+                1
+            ]
+        ],
+        "relationship": [
+            [
+                0,
+                77,
+                0
+            ]
+        ],
+        "review": true,
+        "note": ""
+    }
+}

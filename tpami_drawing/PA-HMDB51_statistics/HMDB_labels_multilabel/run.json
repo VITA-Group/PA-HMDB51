@@ -1,0 +1,447 @@
+{
+    "50_FIRST_DATES_run_f_nm_np1_ba_med_20.avi": {
+        "face": [
+            [
+                0,
+                78,
+                0
+            ]
+        ],
+        "gender": [
+            [
+                0,
+                78,
+                2
+            ]
+        ],
+        "skin_color": [
+            [
+                0,
+                78,
+                1
+            ]
+        ],
+        "nudity": [
+            [
+                0,
+                78,
+                1
+            ]
+        ],
+        "relationship": [
+            [
+                0,
+                78,
+                0
+            ]
+        ],
+        "review": true,
+        "note": ""
+    },
+    "Faith_Rewarded_run_u_cm_np1_le_med_83.avi": {
+        "face": [
+            [
+                0,
+                125,
+                1
+            ]
+        ],
+        "gender": [
+            [
+                0,
+                125,
+                1
+            ]
+        ],
+        "skin_color": [
+            [
+                0,
+                125,
+                1
+            ]
+        ],
+        "nudity": [
+            [
+                0,
+                125,
+                0
+            ]
+        ],
+        "relationship": [
+            [
+                0,
+                125,
+                0
+            ]
+        ],
+        "review": true,
+        "note": ""
+    },
+    "Hitch_Part_2_run_f_nm_np1_fr_med_11.avi": {
+        "face": [
+            [
+                0,
+                7,
+                0
+            ],
+            [
+                8,
+                13,
+                1
+            ],
+            [
+                14,
+                75,
+                2
+            ]
+        ],
+        "gender": [
+            [
+                0,
+                75,
+                1
+            ]
+        ],
+        "skin_color": [
+            [
+                0,
+                75,
+                1
+            ]
+        ],
+        "nudity": [
+            [
+                0,
+                75,
+                0
+            ]
+        ],
+        "relationship": [
+            [
+                0,
+                75,
+                0
+            ]
+        ],
+        "review": true,
+        "note": ""
+    },
+    "IamLegend_run_f_nm_np1_le_med_3.avi": {
+        "face": [
+            [
+                0,
+                10,
+                0
+            ],
+            [
+                11,
+                77,
+                1
+            ]
+        ],
+        "gender": [
+            [
+                0,
+                77,
+                1
+            ]
+        ],
+        "skin_color": [
+            [
+                0,
+                77,
+                3
+            ]
+        ],
+        "nudity": [
+            [
+                0,
+                77,
+                2
+            ]
+        ],
+        "relationship": [
+            [
+                0,
+                77,
+                0
+            ]
+        ],
+        "review": true,
+        "note": ""
+    },
+    "likebeckam_run_f_cm_np1_ba_med_24.avi": {
+        "face": [
+            [
+                0,
+                47,
+                0
+            ]
+        ],
+        "gender": [
+            [
+                0,
+                47,
+                2
+            ]
+        ],
+        "skin_color": [
+            [
+                0,
+                47,
+                2
+            ]
+        ],
+        "nudity": [
+            [
+                0,
+                47,
+                1
+            ]
+        ],
+        "relationship": [
+            [
+                0,
+                47,
+                0
+            ]
+        ],
+        "review": true,
+        "note": ""
+    },
+    "likebeckam_run_f_cm_np1_fr_med_5.avi": {
+        "face": [
+            [
+                0,
+                22,
+                2
+            ],
+            [
+                23,
+                47,
+                1
+            ],
+            [
+                48,
+                100,
+                0
+            ],
+            [
+                101,
+                106,
+                2
+            ]
+        ],
+        "gender": [
+            [
+                0,
+                106,
+                1
+            ]
+        ],
+        "skin_color": [
+            [
+                0,
+                106,
+                1
+            ]
+        ],
+        "nudity": [
+            [
+                0,
+                106,
+                1
+            ]
+        ],
+        "relationship": [
+            [
+                0,
+                106,
+                0
+            ]
+        ],
+        "review": true,
+        "note": ""
+    },
+    "RATRACE_run_f_cm_np1_ba_med_14.avi": {
+        "face": [
+            [
+                0,
+                53,
+                0
+            ]
+        ],
+        "gender": [
+            [
+                0,
+                53,
+                1
+            ]
+        ],
+        "skin_color": [
+            [
+                0,
+                53,
+                3
+            ]
+        ],
+        "nudity": [
+            [
+                0,
+                53,
+                1
+            ]
+        ],
+        "relationship": [
+            [
+                0,
+                53,
+                0
+            ]
+        ],
+        "review": true,
+        "note": ""
+    },
+    "THE_PROTECTOR_run_f_cm_np1_ri_med_101.avi": {
+        "face": [
+            [
+                4,
+                77,
+                1
+            ]
+        ],
+        "gender": [
+            [
+                4,
+                77,
+                1
+            ]
+        ],
+        "skin_color": [
+            [
+                4,
+                77,
+                2
+            ]
+        ],
+        "nudity": [
+            [
+                4,
+                77,
+                2
+            ]
+        ],
+        "relationship": [
+            [
+                4,
+                77,
+                0
+            ]
+        ],
+        "review": true,
+        "note": ""
+    },
+    "THE_PROTECTOR_run_f_nm_np1_fr_med_71.avi": {
+        "face": [
+            [
+                0,
+                0,
+                2
+            ],
+            [
+                1,
+                46,
+                2
+            ]
+        ],
+        "gender": [
+            [
+                0,
+                0,
+                1
+            ],
+            [
+                1,
+                46,
+                1
+            ]
+        ],
+        "skin_color": [
+            [
+                0,
+                0,
+                2
+            ],
+            [
+                1,
+                46,
+                2
+            ]
+        ],
+        "nudity": [
+            [
+                0,
+                0,
+                0
+            ],
+            [
+                1,
+                46,
+                0
+            ]
+        ],
+        "relationship": [
+            [
+                0,
+                0,
+                0
+            ],
+            [
+                1,
+                46,
+                0
+            ]
+        ],
+        "review": true,
+        "note": ""
+    },
+    "Veoh_Alpha_Dog_2_run_f_nm_np1_fr_med_26.avi": {
+        "face": [
+            [
+                0,
+                136,
+                2
+            ]
+        ],
+        "gender": [
+            [
+                0,
+                136,
+                1
+            ]
+        ],
+        "skin_color": [
+            [
+                0,
+                136,
+                1
+            ]
+        ],
+        "nudity": [
+            [
+                0,
+                136,
+                1
+            ]
+        ],
+        "relationship": [
+            [
+                0,
+                136,
+                0
+            ]
+        ],
+        "review": true,
+        "note": ""
+    }
+}
